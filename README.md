@@ -1,3 +1,9 @@
+<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/441b9381-725b-4076-8802-5fd10dbe4238" />
+<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/66467399-78ea-4325-a3cf-264833f96009" />
+<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/6b593c03-4c36-449c-a430-3e0962c4f226" />
+<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/3b165496-6843-4698-b597-486a5efb2b78" />
+<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/5db1f5b0-57c9-4de9-8038-8f1ec4ca314e" />
+<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/453447e1-ded2-4018-bbb4-e703c1fe3a89" />
 Python Blackjack Project
 
 A command line implementation of the classic Blackjack (21) card game built with Python. This project was developed as part of my 100 days of Python bootcamp learning journey to strengthen my understanding of programming fundamentals and problem solving.
@@ -54,7 +60,8 @@ Building this project helped me:
 
 
 
-👩‍💻 Author
+<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/a3e6bc3f-9818-404d-8a97-b97c188858eb" />
+ Author
 
 Anureet
 
