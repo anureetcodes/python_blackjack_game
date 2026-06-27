@@ -1,8 +1,11 @@
-<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/441b9381-725b-4076-8802-5fd10dbe4238" />
+
 
 Python Blackjack Project
 
 A command line implementation of the classic Blackjack (21) card game built with Python. This project was developed as part of my 100 days of Python bootcamp learning journey to strengthen my understanding of programming fundamentals and problem solving.
+
+preview
+<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/441b9381-725b-4076-8802-5fd10dbe4238" />
 
  Project Overview
 In this game, the player competes against the computer (dealer) by drawing cards and trying to reach a score as close to 21 as possible without exceeding it. The game follows the basic rules of Blackjack, including special handling of Aces and dealer decision-making.
@@ -56,7 +59,6 @@ Building this project helped me:
 
 
 
-<img width="1902" height="628" alt="Screenshot 2026-06-27 234149" src="https://github.com/user-attachments/assets/a3e6bc3f-9818-404d-8a97-b97c188858eb" />
  Author
 
 Anureet
