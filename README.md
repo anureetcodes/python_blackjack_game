@@ -1,5 +1,3 @@
-
-
 Python Blackjack Project
 
 A command line implementation of the classic Blackjack (21) card game built with Python. This project was developed as part of my 100 days of Python bootcamp learning journey to strengthen my understanding of programming fundamentals and problem solving.
